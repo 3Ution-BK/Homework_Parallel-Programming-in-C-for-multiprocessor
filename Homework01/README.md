@@ -1,7 +1,7 @@
 Parallel Programming In C For Multiprocessor
 ===
 
-[HackMD version] https://hackmd.io/MYU2CYCNgBgdgLQE4DMLwICwENOQZAGYjYFKYpwzaQAmAHDAGxA=?both
+[HackMD version](https://hackmd.io/MYU2CYCNgBgdgLQE4DMLwICwENOQZAGYjYFKYpwzaQAmAHDAGxA=?both)
 
 **Homework 1**
 
