@@ -54,9 +54,7 @@ printf("Process %d finished in time %f secs.\n", id, totalTime);
 
 Suppose we toss darts randomly at a square dartboard, whose bullseye is at the origin, and whose sides are 2 feet in length. Suppose also that there is a circle inscribed in the square dartboard. The radius of the circle is 1 foot, and its area is π square feet. If the points that are hit by the darts are uniformly distributed (and we always hit the square), then the number of darts that hit inside the circle should approximately satisfy the equation:
 
-
-> \frac{\text{number in circle}}{\text{total number of tosses}} = \frac{\pi}{4}
-
+![function](https://i.imgur.com/Q0dJlk4.gif)
 
 since the ratio of the area of the circle to the area of the square is π/4.
 
