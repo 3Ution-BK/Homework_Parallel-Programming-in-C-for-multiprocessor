@@ -1,4 +1,4 @@
-Homework_ParallelProgrammingInCForMultiprocessor
+Homework_Parallel Programming In C For Multiprocessor
 ===
 
 **Public** - This repository is for "Parallel Programming in C for multiprocessor" course in my university.
