@@ -42,7 +42,7 @@ printf("Process %d finished in time %f secs.\n", id, totalTime);
 > ```mpicc -o homework1-1 homewrok1-1.c```
 >
 > **Execute**
-> ```mpicc -n *(number of process) ./homework1-1```
+> ```mpicc -n (number of process) ./homework1-1```
 
 > It seems like our teacher copy this homework from another school. 
 > [_Link here_](https://cs.calvin.edu/courses/cs/374/exercises/01/project/)
