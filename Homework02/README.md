@@ -30,11 +30,12 @@ Every time we smooths the image, each pixel will calculate the average with its 
 
 > **Compile**
 > ```mpicxx -o homework2-1 homewrok2-1.cpp```
+>
 > **Execute**
 > ```mpiexe -n (number of process) ./homework2-1```
 
 > [_Image smoothing time chart (different number of smoothing time)_](https://live.amcharts.com/Y0Y2J/)
-
+>
 > [_Image smoothing time chart (different number of process)_](https://live.amcharts.com/ZDcxZ/)
 
 ## Question 2
@@ -47,6 +48,7 @@ Process 0 should read in n and broadcast it to the other processes. Each process
 
 > **Compile**
 > ```mpicc -o homework2-2 homewrok2-2.c```
+>
 > **Execute**
 > ```mpiexe -n (number of process) ./homework2-2```
 
