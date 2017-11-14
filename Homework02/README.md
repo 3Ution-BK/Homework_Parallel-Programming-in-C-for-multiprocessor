@@ -34,6 +34,7 @@ Every time we smooths the image, each pixel will calculate the average with its 
 > ```mpiexe -n (number of process) ./homework2-1```
 
 > [_Image smoothing time chart (different number of smoothing time)_](https://live.amcharts.com/Y0Y2J/)
+
 > [_Image smoothing time chart (different number of process)_](https://live.amcharts.com/ZDcxZ/)
 
 ## Question 2
