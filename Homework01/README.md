@@ -1,7 +1,7 @@
 Parallel Programming In C For Multiprocessor - Homework 1
 ===
 
-[HackMD version](https://hackmd.io/MYU2CYCNgBgdgLQE4DMLwICwENOQZAGYjYFKYpwzaQAmAHDAGxA=?both)
+[HackMD version](https://hackmd.io/MYU2CYCNgBgdgLQE4DMLwICwENOQZAGYjYFKYpwzaQAmAHDAGxA=)
 
 ## Question 1
 **(Using tree-structured communication 50 points or using serial communication 40 points)**
