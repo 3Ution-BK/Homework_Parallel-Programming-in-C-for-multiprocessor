@@ -1,7 +1,7 @@
 Parallel Programming In C For Multiprocessor - Homework 2
 ===
 
-[HackMD version](https://hackmd.io/MwUwxgRiFmC0wwA4AmcAsECc8IEZgB2OPFJAMyQEMQUqBWANhCA=?both)
+[HackMD version](https://hackmd.io/MwUwxgRiFmC0wwA4AmcAsECc8IEZgB2OPFJAMyQEMQUqBWANhCA=)
 
 ## Question 1
 **(Please use MPI_Scatterv and MPI_Gatherv to implement this homework)**
