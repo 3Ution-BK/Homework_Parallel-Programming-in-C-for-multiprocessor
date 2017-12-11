@@ -26,7 +26,9 @@ Every time we smooths the image, each pixel will calculate the average with its 
 
 ### Note
 >   Like homework02, we have to smooth the same picture. The only different things is to use pthread instead of MPICH.
->   `bmp.h` is given by my teacher. I only edit `homewrok4.cpp`
+>
+>   `bmp.h` is given by my teacher. I only edit `homewrok4.cpp`.
+>
 >   A interesting fact is that once the pthread number is more than the total cores in this cluster(in this cluster, 8), the more pthread is involved, the more time it will waste.
 
 >   **Compile**
